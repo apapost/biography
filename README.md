@@ -87,4 +87,12 @@
 #### Οκτώβριος 2021
 Διεθνές Συνέδριο ΕΕΠΕΚ «Η εφαρμογή της τεχνητής νοημοσύνης στη διδακτική πράξη».
 
+<li>
+    <h3>
+      <a class="post-link" href="https://github.com/XXX/linkhere">
+        Apostolidis Apostolos  <!-- Display the member name -->
+      </a>
+    </h3>
+  </li>
+
 ## [Back to homepage](https://sdy60-2024.github.io/webring/)
